@@ -1,2 +1,2 @@
-# boss05.github.io
+# BOSS05 Repo
 My user repo. Used to navigate through games.
